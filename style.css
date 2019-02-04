@@ -1,0 +1,25 @@
+span{
+	color: red;
+	display: flex;
+	justify-content: center;
+}
+.block__todoList{
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 25%;
+}
+
+.button__delete{
+	text-align: center;
+}
+input{
+	width: 50%;
+}
+h1{
+	text-align: center;
+}
+body{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
